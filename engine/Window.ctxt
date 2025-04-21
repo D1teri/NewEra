@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Window
+comment1.params=width\ height\ title
+comment1.target=Window(int,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=void\ create()
+comment3.params=
+comment3.target=void\ update()
+comment4.params=
+comment4.target=void\ swapBuffers()
+comment5.params=
+comment5.target=boolean\ shouldClose()
+numComments=6
