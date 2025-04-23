@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Mesh
+comment1.params=vertices\ indices
+comment1.target=Mesh(Vertex[],\ int[])
+comment2.params=
+comment2.target=void\ create()
+comment3.params=
+comment3.target=Vertex[]\ getVertices()
+comment4.params=
+comment4.target=int[]\ getIndices()
+comment5.params=
+comment5.target=int\ getVAO()
+comment6.params=
+comment6.target=int\ getPBO()
+comment7.params=
+comment7.target=int\ getIBO()
+numComments=8

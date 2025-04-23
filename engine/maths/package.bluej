@@ -1,0 +1,27 @@
+#BlueJ package file
+objectbench.height=89
+objectbench.width=760
+package.divider.horizontal=0.6
+package.divider.vertical=0.808
+package.editor.height=397
+package.editor.width=670
+package.editor.x=806
+package.editor.y=394
+package.frame.height=600
+package.frame.width=800
+package.numDependencies=0
+package.numTargets=1
+package.showExtends=true
+package.showUses=true
+readme.height=60
+readme.name=@README
+readme.width=49
+readme.x=10
+readme.y=10
+target1.height=70
+target1.name=Vector3f
+target1.showInterface=false
+target1.type=ClassTarget
+target1.width=120
+target1.x=187
+target1.y=178
